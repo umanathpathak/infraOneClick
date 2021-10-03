@@ -38,7 +38,7 @@ variable "name" {
     "ec2_Instance_pri3"            = "ec2_Instance_pri3"
 
     "ec2_ubuntu_volume_size"       = "8"
-    "ec2_redhat_volume_size"       = "15"
+    "ec2_redhat_volume_size"       = "10"
     
     "alb"                          = "alb"
     "tomcat"                       = "tomcat"
